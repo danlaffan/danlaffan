@@ -1,16 +1,20 @@
-## Hi there 👋
+# Experienced Ruby on Rails engineer, Dublin <br/> <sub>Happiest hands-on</sub>
 
-<!--
-**danlaffan/danlaffan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Ruby on Rails engineer with 13+ years building and re-architecting production SaaS, currently working with Rails 8 with Hotwire.
 
-Here are some ideas to get you started:
+I came to engineering by an unusual route. Before software I spent two decades in finance and operations leadership — FD, COO, and interim CEO, and am a qualified Chartered Accountant (FCA), trained at EY. That's the thing I bring that most engineers don't: I weigh technical decisions against runway, margins, and what the business actually needs, not just what's elegant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since moving into software I've founded a company, run engineering as an early-stage CTO, and scaled enterprise SaaS as Deputy CTO at Sonru (acquired by Modern Hire in 2020), where I led a product organisation through a top-to-bottom platform rebuild. I'm happiest hands-on, though — shipping features, designing clean architecture, paying down technical debt, and getting the details right.
+
+I've deepened the security side by recently completing a Postgraduate Diploma in Cybersecurity with Chevron College and the University of Sunderland. I'm currently studying for a Professional Master's Degree in Advanced Digital Technologies for Business.  I'm also rebuilding my own site on a Rails 8 starter template I'm developing using a closely-supervised Claude Code workflow.
+
+Stack: Ruby on Rails · Hotwire / Stimulus · PostgreSQL & MySQL · RSpec · AWS · Redis · Elasticsearch · Fly.io
+
+## Where's the code?
+
+All of my projects live in private and client repositories, so my public footprint here is light by choice rather than for lack of output. I'm glad to walk reviewers through code read-only on request. In the meantime, [danlaffan.com](https://danlaffan.com) is the best place to get a sense of what I build.
+
+## Elsewhere
+
+-  [danlaffan.com](https://danlaffan.com) — my personal site (a Rails app I build and maintain)
+-  [LinkedIn](https://www.linkedin.com/in/danlaffan)
