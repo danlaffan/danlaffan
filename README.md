@@ -8,7 +8,15 @@ Since moving into software I've founded a company, run engineering as an early-s
 
 I've deepened the security side by recently completing a Postgraduate Diploma in Cybersecurity with Chevron College and the University of Sunderland. I'm currently studying for a Professional Master's Degree in Advanced Digital Technologies for Business.  I'm also rebuilding my own site on a Rails 8 starter template I'm developing using a closely-supervised Claude Code workflow.
 
-Stack: Ruby on Rails · Hotwire / Stimulus · PostgreSQL & MySQL · RSpec · AWS · Redis · Elasticsearch · Fly.io
+## Stack
+-  Ruby on Rails
+-  Hotwire / Stimulus
+-  PostgreSQL & MySQL
+-  RSpec
+-  Redis
+-  Elasticsearch
+-  AWS
+-  Fly.io
 
 ## Where's the code?
 
